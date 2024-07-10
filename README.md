@@ -9,5 +9,9 @@ Here is the gif of the matplotlib plot that was generated in the code:
 
 
 Run run_dolly_zoom.m to see visualize it.
-compute_focal_length.m computes the focal lenght such that the green object in front has the same height in the image when the camera is moved back.
-compute_f_pos.m computes the focal length and the position of the camera such that the object in front has the same height in the image and the blue object behind it becomes half it's size.
+
+Files explanation:
+
+  - The code compute_focal_length.m computes the focal lenght such that the green object in front has the same height in the image when the camera is moved back.
+  - The code compute_f_pos.m computes the focal length and the position of the camera such that the object in front has the same height in the image and the blue object behind it becomes half it's size.
+  - The code project_objects.m render synthetic image using given camera focal length and camera position
