@@ -4,6 +4,7 @@ Here I implemented Dolly Zoom effect used by cinema - makers to create a sensati
 This is done by moving the camera away from the object and increasing the focal length which reduce the FOV and creates the effect.
 
 Here is the gif of the matplotlib plot that was generated in the code:
+
 ![Matlab program showing gif of dolly zoom effect](./resources/DollyZoom.gif)
 
 
